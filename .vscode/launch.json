@@ -23,7 +23,9 @@
 			"env": {
 				"IS_DEV": "true",
 				"DEV_WORKSPACE_FOLDER": "${workspaceFolder}",
-				"CLINE_ENVIRONMENT": "production"
+				"CLINE_ENVIRONMENT": "production",
+				"RESEARCH_API_SERVER": "",
+				"RESEARCH_SDK_TOKEN": ""
 			}
 		},
 		{
@@ -92,7 +94,9 @@
 				"IS_DEV": "true",
 				"TEMP_PROFILE": "true",
 				"DEV_WORKSPACE_FOLDER": "${workspaceFolder}",
-				"CLINE_ENVIRONMENT": "production"
+				"CLINE_ENVIRONMENT": "production",
+				"RESEARCH_API_SERVER": "",
+				"RESEARCH_SDK_TOKEN": ""
 			}
 		},
 		{

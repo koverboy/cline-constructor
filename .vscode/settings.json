@@ -27,5 +27,8 @@
 		"source.removeUnused.biome": "always",
 		"source.removeUnusedImports": "always",
 		"source.organizeImports.biome": "always"
-	}
+	},
+	// Minimal terminal configuration for Cursor
+	"terminal.integrated.automationProfile.osx": null,
+	"terminal.integrated.inheritEnv": true
 }
